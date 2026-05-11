@@ -9,13 +9,13 @@ To run this program, you must have Python installed on your system along with Ju
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt.
 3. Install the required dependencies using pip:
-    pip install numpy scipy matplotlib jupyter
+    ```pip install numpy scipy matplotlib jupyter```
 
 ## How to Run
 1. Navigate to the directory containing the downloaded repository.
 2. Launch Jupyter Notebook from the terminal:
-    jupyter notebook
-3. Your default web browser will open. Navigate to and click on the project's `.ipynb` file to open the interactive notebook.
+   ```jupyter notebook```
+4. Your default web browser will open. Navigate to and click on the project's `.ipynb` file to open the interactive notebook.
 
 ## Usage Instructions
 This program runs interactively within the Jupyter Notebook environment.
